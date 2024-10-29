@@ -1,1 +1,2 @@
 # Sparky-Hotel-Database
+This project is to create a database based on the analysis of one of the hotels in the Tangerang area, Gading Serpong. Where the problem experienced is that there is no company database itself so a third party is needed to create the database. So here sparky Hotel is here to create a database for one of the hotels that we have interviewed. The following is an attachment to the report and also the SQL query in creating a database for the hotel
